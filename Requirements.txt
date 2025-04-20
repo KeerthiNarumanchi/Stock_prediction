@@ -1,9 +1,19 @@
-streamlit==1.17.0
-pandas==1.5.3
-numpy==1.24.2
-scikit-learn==1.2.1
-tensorflow==2.11.0
+setuptools==78.1.1
+joblib==1.4.2
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.0.2
+tensorflow==2.12.0
 matplotlib==3.7.1
-joblib==1.2.0
-yfinance==0.2.18
-setuptools==67.0.0   # To ensure distutils is available
+seaborn==0.12.2
+scipy==1.10.1
+statsmodels==0.15.2
+xgboost==1.7.6
+lightgbm==3.3.2
+keras==2.12.0
+pillow==9.5.0
+flask==2.2.2
+streamlit==1.18.0
+yfinance==0.2.20
+pyyaml==6.0
+shap==0.41.0
