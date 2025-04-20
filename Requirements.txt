@@ -1,14 +1,17 @@
-# Core dependencies
-setuptools==65.5.0   # Stable version for building packages
-joblib==1.4.2         # Required for model saving/loading
-numpy==1.23.5         # Compatible version of NumPy
-pandas==2.2.3         # Ensure compatibility with pandas version
-scikit-learn==1.0.2   # Working version for sklearn
-
-# Additional dependencies (if needed)
-matplotlib==3.7.0     # For plotting in Streamlit
-scipy==1.9.3          # Required for scientific computations
-tensorflow==2.10.0    # For LSTM models, if needed
-streamlit==1.17.0     # For running the Streamlit app
-joblib==1.2.0         # Ensure joblib compatibility
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.2
+matplotlib==3.8.4
+seaborn==0.13.2
+yfinance==0.2.55
+scikit-learn==1.4.2
+tensorflow==2.19.0
+keras==3.9.2
+xgboost==1.7.5
+statsmodels==0.14.2
+joblib==1.4.2
+streamlit==1.32.0
+wandb==0.19.9
+requests_cache==1.2.1
+lxml==4.9.4
 
